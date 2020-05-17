@@ -1,1 +1,3 @@
-echo "# codesaya_belajar"
+# codesaya_belajar
+
+Ini Repo untuk belajar di codesaya.com
